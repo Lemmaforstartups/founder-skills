@@ -1,5 +1,7 @@
 # Founder skills
 
+`npx skills add Lemmaforstartups/founder-skills`
+
 Four Agent Skills for founders of lean AI startups, seed to Series B. Each runs the whole job on its own.
 
 | Skill | What it does |
