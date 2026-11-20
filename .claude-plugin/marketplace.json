@@ -1,0 +1,11 @@
+{
+  "name": "lemma-founder-skills",
+  "owner": { "name": "Lemma for Startups", "url": "https://lemmaforstartups.com" },
+  "plugins": [
+    {
+      "name": "founder-skills",
+      "source": "./",
+      "description": "Month-end close, monthly investor update, seed data room and board deck skills for lean AI startup founders. Drafts for human review."
+    }
+  ]
+}

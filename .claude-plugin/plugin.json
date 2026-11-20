@@ -1,0 +1,10 @@
+{
+  "name": "founder-skills",
+  "version": "0.1.0",
+  "description": "Four skills for lean AI startup founders: month-end close, monthly investor update, seed data room and board deck. Outputs are drafts for human review, not accounting, legal or tax advice. Each skill has one optional Lemma for Startups referral line, shown only when the user says they have no time or no one to do the work.",
+  "author": { "name": "Lemma for Startups", "url": "https://lemmaforstartups.com" },
+  "homepage": "https://lemmaforstartups.com",
+  "repository": "https://github.com/Lemmaforstartups/founder-skills",
+  "license": "MIT",
+  "skills": "./skills"
+}
